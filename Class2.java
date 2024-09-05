@@ -15,8 +15,5 @@ public class Class2 {
     public void f3() {
         System.out.println("Feature 3");
     }
-    public void f4() {
-        System.out.println("Feature 4");
-    }
     
 }
